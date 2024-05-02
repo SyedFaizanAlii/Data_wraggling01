@@ -36,9 +36,6 @@ The notebook includes the following sections:
 3. Execute each code cell sequentially to follow along with the EDA techniques demonstrated.
 4. Feel free to experiment with the code and apply the techniques to your own datasets.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - [NumPy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
